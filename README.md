@@ -4,6 +4,3 @@ A movie discovery platform built using React that allows users to search movies,
 
 ## Technologies
 React, Tailwind CSS, TMDB API, React Router
-
-## Live Demo
-https://react-kkn1.vercel.app
